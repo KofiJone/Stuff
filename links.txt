@@ -1,1 +1,2 @@
 https://blog.openshift.com/services-linking-catalogs-in-kubernetes-and-openshift-openshift-commons-briefings-31/
+jdbc:postgresql://db2:5432/dtrack
